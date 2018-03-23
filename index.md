@@ -15,6 +15,8 @@
 ## [20180322](201803/20180322)
 
 * [Decoupled Deep Neural Network for Semi-supervised Semantic Segmentation] [Paper](https://arxiv.org/pdf/1506.04924.pdf) not finished
+* [Patch-Based Image Inpainting with Generative Adversarial Networks] [Paper](https://arxiv.org/pdf/1803.07422.pdf) not finished
+* [Transferable Semi-supervised Semantic Segmentation] [Paper](https://arxiv.org/pdf/1711.06828.pdf) not finished
 
 ## [20180323](201803/20180323)
 
