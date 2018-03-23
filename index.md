@@ -19,7 +19,4 @@
 ## [20180323](201803/20180323)
 
 * [/Dropbox/Research/paper review template/201803/20180323_1.pdf] not finished
-
-## [20180322](201803/20180323)
-
 * [Densely Dilated Spatial Pooling Convolutional Network using benign loss functions for imbalanced volumetric prostate segmentation] [Paper](https://arxiv.org/pdf/1801.10517.pdf) not finished
