@@ -1,3 +1,4 @@
+
 ## Thoughts
 * [synthesis](thoughts/synthesis)
 
