@@ -1,6 +1,5 @@
 
-## Thoughts
-* [synthesis](thoughts/synthesis)
+## Thoughts [synthesis](thoughts/synthesis)
 
 ## [20180316](201803/20180316)
 
