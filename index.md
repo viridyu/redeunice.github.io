@@ -28,4 +28,4 @@
 
 ## [20180328](201803/20180328)
 
-[Fast Image Processing with Fully-Convolutional Networks] [Paper](https://arxiv.org/abs/1709.00643) [Codes](https://github.com/CQFIO/FastImageProcessing) not finished
+* [Fast Image Processing with Fully-Convolutional Networks] [Paper](https://arxiv.org/abs/1709.00643) [Codes](https://github.com/CQFIO/FastImageProcessing) not finished
