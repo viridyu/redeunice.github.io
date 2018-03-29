@@ -28,4 +28,8 @@
 
 ## [20180328](201803/20180328)
 
-* [Fast Image Processing with Fully-Convolutional Networks] [Paper](https://arxiv.org/abs/1709.00643) [Codes](https://github.com/CQFIO/FastImageProcessing) not finished
+* [Fast Image Processing with Fully-Convolutional Networks] [Paper](https://arxiv.org/abs/1709.00643) [Codes](https://github.com/CQFIO/FastImageProcessing)
+
+## [20180329](201803/20180329)
+
+* [Fast End-to-End Trainable Guided Filter] [Paper](https://arxiv.org/abs/1803.05619) [Codes](https://github.com/wuhuikai/DeepGuidedFilter)
