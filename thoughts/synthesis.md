@@ -11,3 +11,9 @@
 > 1. In the WGAN, the sigmoid should not be applied in discriminator.
 > 2. In wgan-gp, the Batch-norm in D should be deleted.
 > 3. **try dilated convolutional layer in my model.**
+
+## 20180405
+
+> 1. cannot guarantee the contexture similarity between the synthesized and the real images
+> 2. use the variation similarity loss?
+> 3. the contexture similarity can be constrained by watershed filter loss.
