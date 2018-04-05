@@ -17,3 +17,4 @@
 > 1. cannot guarantee the contexture similarity between the synthesized and the real images
 > 2. use the variation similarity loss?
 > 3. the contexture similarity can be constrained by watershed filter loss.
+> 4. sobel operator?
