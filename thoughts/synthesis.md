@@ -18,3 +18,13 @@
 > 2. use the variation similarity loss?
 > 3. the contexture similarity can be constrained by watershed filter loss.
 > 4. sobel operator?
+
+
+## 20180411
+> 1. half: epoch 160; lambda 300
+> 2. sobelLoss: epoch 130; lambda ?
+> 3. variationLoss: epoch 70; lambda ?
+> 4. poolingLoss: epoch 150; lambda 100
+> 5. wgan_gp: epoch 140; lambda 10
+> 6. l2: epoch ?; lambda 300
+> 7. dilated: bad
