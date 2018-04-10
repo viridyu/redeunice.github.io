@@ -10,7 +10,7 @@
 
 > 1. In the WGAN, the sigmoid should not be applied in discriminator.
 > 2. In wgan-gp, the Batch-norm in D should be deleted.
-> 3. **try dilated convolutional layer in my model.**
+> 3. **try dilated convolutional layer in my model.**  gan loss starts to expand at very begining!!!!
 
 ## 20180405
 
