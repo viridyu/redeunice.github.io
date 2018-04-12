@@ -28,3 +28,4 @@
 > 5. wgan_gp: epoch 140; lambda 10
 > 6. l2: epoch ?; lambda 300
 > 7. dilated: bad
+> 8. half: bad; lambda 100
