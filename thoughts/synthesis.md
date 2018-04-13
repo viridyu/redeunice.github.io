@@ -30,3 +30,4 @@
 > 7. dilated: bad
 > 8. half: bad; lambda 100
 > 9. maxpoolingLoss: bad
+> 10. sobelLoss_rise: epoch130(should continue); lambda 100; rise epoch0~50; step 0.5
