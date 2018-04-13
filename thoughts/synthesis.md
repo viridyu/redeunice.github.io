@@ -29,3 +29,4 @@
 > 6. l2: epoch ?; lambda 300
 > 7. dilated: bad
 > 8. half: bad; lambda 100
+> 9. maxpoolingLoss: bad
