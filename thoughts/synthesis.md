@@ -20,7 +20,7 @@
 > 4. sobel operator?
 
 
-## 20180411 partition1
+## 20180411 partition1_downResolution
 > 1. half: epoch 160; lambda 300
 > 2. sobelLoss: epoch 130; lambda 100,30
 > 3. variationLoss: epoch 70; lambda 100,?30
@@ -34,7 +34,7 @@
 > 11. sobelLoss_rise_lambda30: epoch ?; lambda 300,30; rise epoch0~60; step0.5
 
 
-## 20180415 partition2
+## 20180415 partition2_downResolution
 > 1. half: epoch 110; lambda 300
 > 2. sobelLoss_rise: bad; lambda 300,100; rise epoch0~50; step 2
 > 3. sobelLoss_rise_lambda30: epoch 100; lambda 300,30; rise epoch0~60; step0.5
