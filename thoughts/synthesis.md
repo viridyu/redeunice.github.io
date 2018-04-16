@@ -31,9 +31,10 @@
 > 8. half: bad; lambda 100
 > 9. maxpoolingLoss: bad
 > 10. sobelLoss_rise: epoch 140; lambda 100,100; rise epoch0~50; step 2
+> 11. sobelLoss_rise_lambda30: epoch ?; lambda 300,30; rise epoch0~60; step0.5
 
 
 ## 20180416 partition2
 > 1. half: epoch 110; lambda 300
 > 2. sobelLoss_rise: bad; lambda 300,100; rise epoch0~50; step 2
-> 2. sobelLoss_rise_lambda30: epoch 100; lambda 300,30; rise epoch0~60; step0.5
+> 3. sobelLoss_rise_lambda30: epoch 100; lambda 300,30; rise epoch0~60; step0.5
