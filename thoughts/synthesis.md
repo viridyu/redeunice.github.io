@@ -20,14 +20,20 @@
 > 4. sobel operator?
 
 
-## 20180411
+## 20180411 partition1
 > 1. half: epoch 160; lambda 300
-> 2. sobelLoss: epoch 130; lambda 30
-> 3. variationLoss: epoch 70; lambda ?30
-> 4. poolingLoss: epoch 150; lambda 100
+> 2. sobelLoss: epoch 130; lambda 100,30
+> 3. variationLoss: epoch 70; lambda 100,?30
+> 4. poolingLoss: epoch 150; lambda 100,100
 > 5. wgan_gp: epoch 140; lambda 10
 > 6. l2: epoch ?; lambda 300
 > 7. dilated: bad
 > 8. half: bad; lambda 100
 > 9. maxpoolingLoss: bad
-> 10. sobelLoss_rise: epoch 140; lambda 100; rise epoch0~50; step 0.5
+> 10. sobelLoss_rise: epoch 140; lambda 100,100; rise epoch0~50; step 2
+
+
+## 20180416 partition2
+> 1. half: epoch 110; lambda 300
+> 2. sobelLoss_rise: epoch 110; lambda 300,100; rise epoch0~50; step 2
+> 2. sobelLoss_rise_lambda30: epoch 110; lambda 300,30; rise epoch0~60; step0.5
