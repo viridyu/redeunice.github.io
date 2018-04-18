@@ -34,6 +34,6 @@
 
 * [Fast End-to-End Trainable Guided Filter] [Paper](https://arxiv.org/abs/1803.05619) [Codes](https://github.com/wuhuikai/DeepGuidedFilter)
 
-## [201800412](201804/20180412)
+## [20180412](201804/20180412)
 
 * [/Dropbox/Research/paper review template/201804/20180412_1.pdf]
