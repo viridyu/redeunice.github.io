@@ -37,3 +37,7 @@
 ## [20180412](201804/20180412)
 
 * [/Dropbox/Research/paper review template/201804/20180412_1.pdf]
+
+## [20180418](201804/20180418)
+
+* [Conditional Image Synthesis with Auxiliary Classifier GANs] [Paper](https://arxiv.org/abs/1610.09585)
