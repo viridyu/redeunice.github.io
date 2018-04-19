@@ -38,7 +38,7 @@
 > 1. half: epoch 110; lambda 300
 > 2. sobelLoss_rise: bad; lambda 300,100; rise epoch0~50; step 2
 > 3. sobelLoss_rise_lambda30: epoch 100; lambda 300,30; rise epoch0~60; step0.5
-> 4. labelSmooth: epoch ?; lambda 300; 
+> 4. **labelSmooth**: epoch 110; lambda 300; 
 > 5. sobelLoss_rise_lambda100_100 epoch ?; lambda 100,100; rise epoch0~50; step 2
 > 6. sobelLoss_rise_labelSmooth: epoch ?; lambda 300,30; rise epoch0~60; step 0.5
 
