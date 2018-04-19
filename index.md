@@ -41,3 +41,8 @@
 ## [20180418](201804/20180418)
 
 * [Conditional Image Synthesis with Auxiliary Classifier GANs] [Paper](https://arxiv.org/abs/1610.09585)
+
+## [20180419](201804/20180419)
+
+* [SeGAN: Segmenting and Generating the Invisible] [Paper](https://arxiv.org/abs/1703.10239)
+* [High-Resolution Image Synthesis and Semantic Manipulation with Conditional GANs] [Paper](https://arxiv.org/abs/1711.11585)
