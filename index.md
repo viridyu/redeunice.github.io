@@ -46,3 +46,7 @@
 
 * [SeGAN: Segmenting and Generating the Invisible] [Paper](https://arxiv.org/abs/1703.10239) not finished
 * [High-Resolution Image Synthesis and Semantic Manipulation with Conditional GANs] [Paper](https://arxiv.org/abs/1711.11585) not finished
+
+## [20180423](201804/20180423)
+
+* [Perceptual Adversarial Networks for Image-to-Image Transformation] [Paper](https://arxiv.org/abs/1706.09138) not finished
