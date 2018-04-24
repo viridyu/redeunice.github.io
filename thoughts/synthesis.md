@@ -44,3 +44,7 @@
 
 ## 20180416
 > 1. try label smoothing for g loss increasing problem.
+
+## 20180424 partition1_fullResolution
+> 1. half: epoch 150; lambda 300
+> 2. sobelLoss_rise: epoch ?; lambda 300,30; rise epoch0~30; step 1
