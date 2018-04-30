@@ -3,5 +3,8 @@
 
 ## 20180430
 
-> 1. get the networks backward gradients by pytorch: `params = list(networks.parameters())
-params[0].grad # gradient of first module's first weight`
+> 1. get the networks backward gradients by pytorch: 
+```
+params = list(networks.parameters())
+params[0].grad # gradient of first module's first weight
+```
