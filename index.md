@@ -1,6 +1,7 @@
 
 ## Thoughts
 * **[synthesis](thoughts/synthesis)**
+* **[coding](thoughts/coding)**
 
 ## [20180316](201803/20180316)
 
