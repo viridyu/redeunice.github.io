@@ -42,6 +42,7 @@
 > 5. sobelLoss_rise_lambda100_100 epoch bad; lambda 100,100; rise epoch0~50; step 2
 > 6. sobelLoss_rise_labelSmooth: epoch 100; lambda 300,30; rise epoch0~60; step 0.5
 > 7. pan: epoch bad; lambda 300; labelSmooth
+> 8. embededSobel: epoch 110; lambda 300, 100; labelSmooth
 
 ## 20180416
 > 1. try label smoothing for g loss increasing problem.
