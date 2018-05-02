@@ -51,3 +51,8 @@
 ## 20180424 partition1_fullResolution
 > 1. half: epoch 150; lambda 300
 > 2. sobelLoss_rise: epoch 150; lambda 300,30; rise epoch0~30; step 1; labelSmooth
+> 3. embededSobel_label: epoch ?; lambda 100,100; labelSmooth; embededSobel; useLabel
+
+## 20180502 partition2_fullResolution
+> 1. half: epoch 150; lambda 300
+> 2. sobelLoss_rise: epoch ?; lambda 300,30; rise epoch0~30; step 1; labelSmooth
